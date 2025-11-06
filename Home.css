@@ -1,13 +1,17 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
+main {
+  background-image: url("backgrounds.jpeg");
+}
+
 .navbar {
-  background-color: #00008B;
+  background-color: #ff0000;
   padding: 15px;
 }
 
@@ -20,7 +24,7 @@ body {
 
 .navbar a:hover {
   text-decoration: underline;
-} 
+}
 
 main {
   padding: 30px;
@@ -42,8 +46,9 @@ main {
   background-color: #ff0000;
   color: white;
   padding: 10px 10px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
+
 
 
 
