@@ -5,4 +5,20 @@ body {
   padding: 0;
   text-align: center;
 }
-  
+
+.navbar {
+  background-color: #00008B;
+  padding: 15px;
+}
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  text-decoration: underline;
+} 
+
